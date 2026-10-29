@@ -87,7 +87,7 @@ function emojiFallback(item, sizeClass) {
 }
 
 /* ===== Ключи localStorage (только личные настройки пользователя) ===== */
-const FAVS_KEY = 'blogger_favs';    // JSON-массив id избранных блогеров
+const FAVS_KEY = 'blogger_favs';    // JSON-массив id избранных людей
 const THEME_KEY = 'blogger_theme';  // 'dark' | 'light'
 
 /* ===== Состояние ===== */

@@ -13,6 +13,19 @@
     "emoji": "👨‍💼"
   },
   {
+    "id": 5,
+    "name": "@LubinDimka",
+    "displayName": "Lubin Store",
+    "niche": "Продавец",
+    "platform": "telegramm",
+    "subscribers": 1800,
+    "verified": true,
+    "description": "Продажа готового товара",
+    "url": "http://t.me/LubinStore068",
+    "image": "",
+    "emoji": "👨‍💼"
+  },
+  {
     "id": 2,
     "name": "@NRom4ik",
     "displayName": "КОНДЕНСАТ STORE",

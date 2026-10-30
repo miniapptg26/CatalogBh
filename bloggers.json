@@ -13,19 +13,6 @@
     "emoji": "👨‍💼"
   },
   {
-    "id": 5,
-    "name": "@LubinDimka",
-    "displayName": "Lubin Store",
-    "niche": "Продавец",
-    "platform": "telegram",
-    "subscribers": 1800,
-    "verified": true,
-    "description": "Продажа готового товара",
-    "url": "http://t.me/LubinStore068",
-    "image": "",
-    "emoji": "👨‍💼"
-  },
-  {
     "id": 2,
     "name": "@NRom4ik",
     "displayName": "КОНДЕНСАТ STORE",
@@ -65,6 +52,19 @@
     "emoji": "👨‍💼"
   },
   {
+    "id": 5,
+    "name": "@LubinDimka",
+    "displayName": "Lubin Store",
+    "niche": "Продавец",
+    "platform": "telegram",
+    "subscribers": 1800,
+    "verified": true,
+    "description": "Продажа готового товара",
+    "url": "http://t.me/LubinStore068",
+    "image": "",
+    "emoji": "👨‍💼"
+  },
+  {
     "id": 6,
     "name": "@Simvolika68",
     "displayName": "TMB Vape",
@@ -89,6 +89,19 @@
     "url": "https://t.me/VolkmonShop",
     "image": "",
     "emoji": "👨‍💼"
+  },
+  {
+    "id": 9,
+    "name": "@g179p",
+    "displayName": "Vape Inspector",
+    "niche": "Продавец",
+    "platform": "telegram",
+    "subscribers": 3333,
+    "verified": true,
+    "description": "Оформление предзаказов по вашим желаниям",
+    "url": "https://t.me/g179p",
+    "image": "",
+    "emoji": "🚚"
   },
   {
     "id": 8,

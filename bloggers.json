@@ -115,5 +115,18 @@
     "url": "https://t.me/KostrovMoney",
     "image": "",
     "emoji": "💰"
+  },
+  {
+    "id": 10,
+    "name": "@Marlboro_rus68",
+    "displayName": "Marlboro_Shop",
+    "niche": "Продавец",
+    "platform": "telegram",
+  "subscribers": 1400,
+  "verified": true,
+  "description": "Продажа готового товара",
+  "url": "https://t.me/marlboroshoptmb",
+  "image": "",
+  "emoji": "👨‍💼"
   }
 ]

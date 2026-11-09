@@ -128,5 +128,18 @@
     "url": "https://t.me/TMB_vape_68",
     "image": "",
     "emoji": "👨‍💼"
+  },
+  {
+    "id": 11,
+    "name": "@Marlboro_rus68",
+    "displayName": "MarlboroShop",
+    "niche": "Продавец",
+    "platform": "telegram",
+    "subscribers": 1500,
+    "verified": true,
+    "description": "Продажа готового товара",
+    "url": "https://t.me/marlboroshoptmb",
+    "image": "https://github.com/user-attachments/assets/fc8a1ff5-d7bd-4699-b637-44e549140dd8",
+    "emoji": "👨‍💼"
   }
 ]

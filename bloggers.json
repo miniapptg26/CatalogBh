@@ -118,15 +118,15 @@
   },
   {
     "id": 10,
-    "name": "@Marlboro_rus68",
-    "displayName": "Marlboro_Shop",
+    "name": "@TMB_VAPE",
+    "displayName": "TMB VapeCom",
     "niche": "Продавец",
     "platform": "telegram",
-  "subscribers": 1400,
-  "verified": true,
-  "description": "Продажа готового товара",
-  "url": "https://t.me/marlboroshoptmb",
-  "image": "",
-  "emoji": "👨‍💼"
+    "subscribers": 30,
+    "verified": true,
+    "description": "Продажа готового товара",
+    "url": "https://t.me/TMB_vape_68",
+    "image": "",
+    "emoji": "👨‍💼"
   }
 ]

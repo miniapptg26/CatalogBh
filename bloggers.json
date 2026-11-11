@@ -122,7 +122,7 @@
     "displayName": "TMB VapeCom",
     "niche": "Продавец",
     "platform": "telegram",
-    "subscribers": 30,
+    "subscribers": 77,
     "verified": true,
     "description": "Продажа готового товара",
     "url": "https://t.me/TMB_vape_68",
@@ -140,6 +140,32 @@
     "description": "Продажа готового товара",
     "url": "https://t.me/marlboroshoptmb",
     "image": "https://github.com/user-attachments/assets/fc8a1ff5-d7bd-4699-b637-44e549140dd8",
+    "emoji": "👨‍💼"
+  },
+  {
+    "id": 12,
+    "name": "@polik20i",
+    "displayName": "Noname Shop",
+    "niche": "Продавец",
+    "platform": "telegram",
+    "subscribers": 45,
+    "verified": true,
+    "description": "Продажа готового товара",
+    "url": "https://t.me/+SsmQdP5ceog2NjIy",
+    "image": "https://github.com/user-attachments/assets/fa2bcfb4-2111-485d-a79f-4fd4cb1d9297",
+    "emoji": "👨‍💼"
+  },
+  {
+    "id": 13,
+    "name": "@esafyanosov",
+    "displayName": "Aura Vape",
+    "niche": "Продавец",
+    "platform": "telegram",
+    "subscribers": 66,
+    "verified": true,
+    "description": "Продажа готового товара",
+    "url": "https://t.me/aurashop68",
+    "image": "https://github.com/user-attachments/assets/15fe70ee-ae71-41f9-8167-3601a4a15287",
     "emoji": "👨‍💼"
   }
 ]
